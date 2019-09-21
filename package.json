@@ -3,7 +3,8 @@
     "scripts": {
         "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
         "build": "next build",
-        "start": "cross-env NODE_ENV=production node server/index.js"
+        "start": "cross-env NODE_ENV=production node server/index.js",
+        "pm2": "cross-env pm2 start process.json"
     },
     "dependencies": {
         "@zeit/next-css": "^1.0.1",

@@ -1,0 +1,41 @@
+2019-09-21 16:01 +08:00: Error: Could not find a valid build in the 'F:\github\next-seo\.next' directory! Try building your app with 'next build' before starting the server.
+2019-09-21 16:01 +08:00:     at Server.readBuildId (F:\github\next-seo\node_modules\next-server\dist\server\next-server.js:271:23)
+2019-09-21 16:01 +08:00:     at new Server (F:\github\next-seo\node_modules\next-server\dist\server\next-server.js:38:29)
+2019-09-21 16:01 +08:00:     at module.exports (F:\github\next-seo\node_modules\next-server\index.js:4:10)
+2019-09-21 16:01 +08:00:     at module.exports (F:\github\next-seo\node_modules\next\dist\server\next.js:9:12)
+2019-09-21 16:01 +08:00:     at Object.<anonymous> (F:\github\next-seo\server\index.js:19:13)
+2019-09-21 16:01 +08:00:     at Module._compile (module.js:652:30)
+2019-09-21 16:01 +08:00:     at Object.Module._extensions..js (module.js:663:10)
+2019-09-21 16:01 +08:00:     at Module.load (module.js:565:32)
+2019-09-21 16:01 +08:00:     at tryModuleLoad (module.js:505:12)
+2019-09-21 16:01 +08:00:     at Function.Module._load (module.js:497:3)
+2019-09-21 16:05 +08:00: { FetchError: request to http://127.0.0.1:3100/api/index.do failed, reason: connect ECONNREFUSED 127.0.0.1:3100
+2019-09-21 16:05 +08:00:     at ClientRequest.<anonymous> (F:\github\next-seo\node_modules\isomorphic-fetch\node_modules\node-fetch\index.js:133:11)
+2019-09-21 16:05 +08:00:     at emitOne (events.js:116:13)
+2019-09-21 16:05 +08:00:     at ClientRequest.emit (events.js:211:7)
+2019-09-21 16:05 +08:00:     at Socket.socketErrorListener (_http_client.js:387:9)
+2019-09-21 16:05 +08:00:     at emitOne (events.js:116:13)
+2019-09-21 16:05 +08:00:     at Socket.emit (events.js:211:7)
+2019-09-21 16:05 +08:00:     at emitErrorNT (internal/streams/destroy.js:64:8)
+2019-09-21 16:05 +08:00:     at _combinedTickCallback (internal/process/next_tick.js:138:11)
+2019-09-21 16:05 +08:00:     at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-09-21 16:05 +08:00:   name: 'FetchError',
+2019-09-21 16:05 +08:00:   message: 'request to http://127.0.0.1:3100/api/index.do failed, reason: connect ECONNREFUSED 127.0.0.1:3100',
+2019-09-21 16:05 +08:00:   type: 'system',
+2019-09-21 16:05 +08:00:   errno: 'ECONNREFUSED',
+2019-09-21 16:05 +08:00:   code: 'ECONNREFUSED' }
+2019-09-21 16:06 +08:00: { FetchError: request to http://127.0.0.1:3100/api/index.do failed, reason: connect ECONNREFUSED 127.0.0.1:3100
+2019-09-21 16:06 +08:00:     at ClientRequest.<anonymous> (F:\github\next-seo\node_modules\isomorphic-fetch\node_modules\node-fetch\index.js:133:11)
+2019-09-21 16:06 +08:00:     at emitOne (events.js:116:13)
+2019-09-21 16:06 +08:00:     at ClientRequest.emit (events.js:211:7)
+2019-09-21 16:06 +08:00:     at Socket.socketErrorListener (_http_client.js:387:9)
+2019-09-21 16:06 +08:00:     at emitOne (events.js:116:13)
+2019-09-21 16:06 +08:00:     at Socket.emit (events.js:211:7)
+2019-09-21 16:06 +08:00:     at emitErrorNT (internal/streams/destroy.js:64:8)
+2019-09-21 16:06 +08:00:     at _combinedTickCallback (internal/process/next_tick.js:138:11)
+2019-09-21 16:06 +08:00:     at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-09-21 16:06 +08:00:   name: 'FetchError',
+2019-09-21 16:06 +08:00:   message: 'request to http://127.0.0.1:3100/api/index.do failed, reason: connect ECONNREFUSED 127.0.0.1:3100',
+2019-09-21 16:06 +08:00:   type: 'system',
+2019-09-21 16:06 +08:00:   errno: 'ECONNREFUSED',
+2019-09-21 16:06 +08:00:   code: 'ECONNREFUSED' }

@@ -1,0 +1,71 @@
+2019-09-21 16:04 +08:00: > Ready on http://localhost:3000
+2019-09-21 16:05 +08:00:   <-- GET /
+2019-09-21 16:05 +08:00:   --> GET / 500 1,596ms 2.25kb
+2019-09-21 16:05 +08:00:   <-- GET /_next/static/4FBZTD0j2V-lxBzlyorSX/pages/_app.js
+2019-09-21 16:05 +08:00:   <-- GET /_next/static/runtime/webpack-8ed9452df514b4d17d80.js
+2019-09-21 16:05 +08:00:   <-- GET /_next/static/chunks/commons.e0662335bc3a054d2071.js
+2019-09-21 16:05 +08:00:   <-- GET /_next/static/runtime/main-541f01c65744a5c2c60b.js
+2019-09-21 16:05 +08:00:   <-- GET /_next/static/css/commons.d7a13280.chunk.css
+2019-09-21 16:05 +08:00:   <-- GET /_next/static/4FBZTD0j2V-lxBzlyorSX/pages/_error.js
+2019-09-21 16:05 +08:00:   <-- GET /favicon.ico
+2019-09-21 16:05 +08:00:   --> GET /favicon.ico 404 6ms 2.16kb
+2019-09-21 16:06 +08:00:   <-- GET /
+2019-09-21 16:06 +08:00:   --> GET / 500 1,056ms 2.25kb
+2019-09-21 16:06 +08:00:   <-- GET /_next/static/css/commons.d7a13280.chunk.css
+2019-09-21 16:06 +08:00:   <-- GET /_next/static/css/commons.d7a13280.chunk.css
+2019-09-21 16:21 +08:00: > Ready on http://localhost:3100
+2019-09-21 16:21 +08:00:   <-- GET /
+2019-09-21 16:21 +08:00:   <-- POST /api/index.do
+2019-09-21 16:21 +08:00:   --> POST /api/index.do 200 28ms 1.38kb
+2019-09-21 16:21 +08:00:   --> GET / 304 458ms 
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/css/commons.d7a13280.chunk.css
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/css/styles.d8caed06.chunk.css
+2019-09-21 16:21 +08:00:   <-- GET /
+2019-09-21 16:21 +08:00:   <-- POST /api/index.do
+2019-09-21 16:21 +08:00:   --> POST /api/index.do 200 2ms 1.38kb
+2019-09-21 16:21 +08:00:   --> GET / 200 14ms 10.47kb
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/4FBZTD0j2V-lxBzlyorSX/pages/index.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/4FBZTD0j2V-lxBzlyorSX/pages/_app.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/runtime/webpack-8ed9452df514b4d17d80.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/chunks/commons.e0662335bc3a054d2071.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/chunks/styles.99ec77af9ba67e561b1f.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/runtime/main-541f01c65744a5c2c60b.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/css/commons.d7a13280.chunk.css
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/css/styles.d8caed06.chunk.css
+2019-09-21 16:21 +08:00:   <-- GET /
+2019-09-21 16:21 +08:00:   <-- POST /api/index.do
+2019-09-21 16:21 +08:00:   --> POST /api/index.do 200 1ms 1.38kb
+2019-09-21 16:21 +08:00:   --> GET / 200 7ms 10.47kb
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/4FBZTD0j2V-lxBzlyorSX/pages/index.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/4FBZTD0j2V-lxBzlyorSX/pages/_app.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/runtime/webpack-8ed9452df514b4d17d80.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/chunks/commons.e0662335bc3a054d2071.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/chunks/styles.99ec77af9ba67e561b1f.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/runtime/main-541f01c65744a5c2c60b.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/css/commons.d7a13280.chunk.css
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/css/styles.d8caed06.chunk.css
+2019-09-21 16:21 +08:00:   <-- GET /
+2019-09-21 16:21 +08:00:   <-- POST /api/index.do
+2019-09-21 16:21 +08:00:   --> POST /api/index.do 200 1ms 1.38kb
+2019-09-21 16:21 +08:00:   --> GET / 200 7ms 10.47kb
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/4FBZTD0j2V-lxBzlyorSX/pages/index.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/4FBZTD0j2V-lxBzlyorSX/pages/_app.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/runtime/webpack-8ed9452df514b4d17d80.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/chunks/commons.e0662335bc3a054d2071.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/chunks/styles.99ec77af9ba67e561b1f.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/runtime/main-541f01c65744a5c2c60b.js
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/css/commons.d7a13280.chunk.css
+2019-09-21 16:21 +08:00:   <-- GET /_next/static/css/styles.d8caed06.chunk.css
+2019-09-21 17:02 +08:00:   <-- GET /
+2019-09-21 17:02 +08:00:   <-- POST /api/index.do
+2019-09-21 17:02 +08:00:   --> POST /api/index.do 200 1ms 1.38kb
+2019-09-21 17:02 +08:00:   --> GET / 200 11ms 10.47kb
+2019-09-21 17:02 +08:00:   <-- GET /_next/static/css/commons.d7a13280.chunk.css
+2019-09-21 17:02 +08:00:   <-- GET /_next/static/css/styles.d8caed06.chunk.css
+2019-09-21 17:43 +08:00: > Ready on http://localhost:3100
+2019-09-21 17:43 +08:00:   <-- GET /
+2019-09-21 17:43 +08:00:   <-- POST /api/index.do
+2019-09-21 17:43 +08:00:   --> POST /api/index.do 200 20ms 1.38kb
+2019-09-21 17:43 +08:00:   --> GET / 304 317ms 
+2019-09-21 17:43 +08:00:   <-- GET /_next/static/css/commons.d7a13280.chunk.css
+2019-09-21 17:43 +08:00:   <-- GET /_next/static/css/styles.d8caed06.chunk.css
